@@ -17,3 +17,4 @@ print(James , "?!! That has got to be the dumbest position that suits best for c
 Betty = input (" what is wrong with David? ")
 print(Betty , "?!! Man, that person is nothing but a big bitch ")
 
+
