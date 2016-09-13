@@ -1,5 +1,6 @@
-W =
-H =
-Bmi = int (input(703 * W)/(H**) 
+W = float(input("What is your weight? "))
+H = float(input("What is your height? "))
 
-print (" Bmi is...", Bmi) 
+Bmi = (W * 703)/(H**2)
+
+print(Bmi) 
